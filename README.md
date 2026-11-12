@@ -14,7 +14,7 @@ in **Angular** and **Flutter**. At my Lotus IT internship I worked on a headless
 | Project | What it is | Stack |
 |---|---|---|
 | [**GymLink**](https://github.com/AnurZ/GymLink) | Gym & personal-training platform: Android app for members/trainers, Windows app for admins. RabbitMQ outbox + worker, Stripe, SignalR chat, explainable recommender, ~120 tests. *Solo.* | .NET 10, Flutter, SQL Server, RabbitMQ, Docker |
-| [**Biteflow**](https://github.com/AnurZ/Biteflow) | Multi-tenant restaurant management (menus, orders, kitchen screen, reservations). I built auth (Identity + Duende IdentityServer), onboarding and tenant isolation. *Team of 2.* | Angular 20, .NET 8, SQL Server, SignalR |
+| [**Biteflow**](https://github.com/AnurZ/Biteflow) | Multi-tenant restaurant management (orders, waiter & kitchen screens, reservations). I built auth (Identity + Duende IdentityServer), onboarding, tenant isolation, the admin CRUD and the real-time waiter/kitchen screens. *Team of 2.* | Angular 20, .NET 8, SQL Server, SignalR |
 | [**GameShelf**](https://github.com/AnurZ/GameShelf) | Digital game store with coin wallet, discounts, reviews and an admin area. *Solo.* | Angular 20, .NET 9, EF Core |
 
 #### Tech I use
